@@ -1,0 +1,5 @@
+C:\Users\HP\Desktop\ASP-NET-\lab4\registrationForm\registrationForm\bin\registrationForm.dll
+C:\Users\HP\Desktop\ASP-NET-\lab4\registrationForm\registrationForm\bin\registrationForm.pdb
+C:\Users\HP\Desktop\ASP-NET-\lab4\registrationForm\registrationForm\obj\Debug\registrationForm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ASP-NET-\lab4\registrationForm\registrationForm\obj\Debug\registrationForm.dll
+C:\Users\HP\Desktop\ASP-NET-\lab4\registrationForm\registrationForm\obj\Debug\registrationForm.pdb
